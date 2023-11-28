@@ -1,0 +1,4 @@
+apply plugin: 'java'
+dependencies {
+compile files('../common/build/libs/common.jar','c:/JavaProjects/nframework/server/build/libs/nframework-server.jar','c:/mysqljar/mysql.jar')
+}

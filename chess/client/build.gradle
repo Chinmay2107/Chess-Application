@@ -1,0 +1,4 @@
+apply plugin: 'java'
+dependencies {
+compile files('../common/build/libs/common.jar','c:/JavaProjects/nframework/client/build/libs/nframework-client.jar','c:/mysqljar/mysql.jar','c:/gson/gson-2.10.1.jar')
+}

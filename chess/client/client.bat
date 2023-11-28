@@ -1,0 +1,1 @@
+java -classpath ..\common\build\libs\*;c:\JavaProjects\nframework\common\build\libs\*;c:\JavaProjects\nframework\client\build\libs\*;c:\mysqljar\*;build\libs\*;c:\gson\*;. com.thinking.machines.chess.client.Main %1 %2

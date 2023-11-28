@@ -1,0 +1,14 @@
+com/thinking/machines/chess/server/ChessServer.java
+ com.thinking.machines.chess.server.ChessServer
+com/thinking/machines/chess/server/Game.java
+ com.thinking.machines.chess.server.Game
+com/thinking/machines/chess/server/dl/DAOConnection.java
+ com.thinking.machines.chess.server.dl.DAOConnection
+com/thinking/machines/chess/server/dl/MemberDTO.java
+ com.thinking.machines.chess.server.dl.MemberDTO
+com/thinking/machines/chess/server/Member.java
+ com.thinking.machines.chess.server.Member
+com/thinking/machines/chess/server/Main.java
+ com.thinking.machines.chess.server.Main
+com/thinking/machines/chess/server/dl/MemberDAO.java
+ com.thinking.machines.chess.server.dl.MemberDAO
